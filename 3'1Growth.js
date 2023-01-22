@@ -39,4 +39,4 @@ function growthOFPopulation(p0, percent, aug, p) {
  return years;   
 }
 console.log(growthOFPopulation(1000, 2, 50, 1200));
-console.log(growthOFPopulation(1000, 5, 10, 1600));
+console.log(growthOFPopulation(1000, 5, 10, 1200));
